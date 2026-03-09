@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 4,
+    "title" : "나눔접시 2종",
+    "imgUrl" : "img/new/new4.png",
+    "content" : "일제 도자기",
+    "price" : 8000
+  },
+  {
+    "id" : 5,
+    "title" : "히다 파스타볼",
+    "imgUrl" : "img/new/new5.png",
+    "content" : "일제 도자기",
+    "price" : 9000
+  },
+  {
+    "id" : 6,
+    "title" : "점박이 타원 카레볼",
+    "imgUrl" : "img/new/new6.png",
+    "content" : "일제 도자기",
+    "price" : 10000
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 7,
+    "title" : "쿠로가마 직팔각접시",
+    "imgUrl" : "img/new/new7.png",
+    "content" : "일제 도자기",
+    "price" : 15300
+  },
+  {
+    "id" : 8,
+    "title" : "카가와 타원볼",
+    "imgUrl" : "img/new/new8.png",
+    "content" : "일제 도자기",
+    "price" : 14400
+  },
+  {
+    "id" : 9,
+    "title" : "오발플레이트 大 - 메탈그레이",
+    "imgUrl" : "img/new/new9.jpg",
+    "content" : "일제 도자기",
+    "price" : 42000
+  }
+]
